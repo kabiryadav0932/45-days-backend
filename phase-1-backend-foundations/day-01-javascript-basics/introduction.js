@@ -1,6 +1,4 @@
-/*
-
-                                    javaScript :-
+/*                                   javaScript :-
 
 Everything in jS happens inside an "Execution Context".
 
