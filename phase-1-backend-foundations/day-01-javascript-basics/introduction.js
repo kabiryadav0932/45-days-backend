@@ -20,6 +20,12 @@ Everything in jS happens inside an "Execution Context".
 - jS is a synchronous single-threaded language 
 meaning - it can execute one command at a time, then after it goes for next command.
 
-
+- callstack maintains the order of Execution of execution contexts
+ There are many names for callstack :-
+ a) Program Stack
+ b) Execution Context Stack
+ c) Control Stack
+ d) Runtime Stack
+ e) Machine Stack
 
 */
