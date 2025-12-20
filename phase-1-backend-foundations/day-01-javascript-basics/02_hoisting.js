@@ -4,12 +4,14 @@ Hoisting in JavaScript is the behavior where declarations (variables, functions,
 
 /*
 
+
+
+
+
 console.log(a); // undefined
 var a = 10;
 
-- here a is created in memory(using line 2), but it is not declated, so it is undefined
-
-
+- here a is created in memory(using line 2), but it is not declared, so it is undefined, 
 
 
 
@@ -20,7 +22,6 @@ function sayHi() {
   console.log("Hi");
 }
 - it will return the answer
-
 
 
 
